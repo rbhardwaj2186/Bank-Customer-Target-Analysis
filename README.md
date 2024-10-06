@@ -1,6 +1,10 @@
 # Project: Bank Customer Target Analysis – White Collar England Male Age 34
 Objective:
 
+![Report](https://github.com/user-attachments/assets/7331c6f8-2402-454c-aa2f-47d9ee36d7a1)
+
+
+
 The purpose of this project is to analyze the target customer segments for a bank, focusing on specific demographic, geographic, and job classifications. Using Power BI, the dashboard provides insights into customer balances, age distribution, job classifications, and gender analysis.
 Key Insights:
 
